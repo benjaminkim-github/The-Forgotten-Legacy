@@ -1,0 +1,23 @@
+{
+  "name": "the-forgotten-legacy",
+  "version": "1.0.0",
+  "description": "Massive(ly) Multiplayer Online Role-Playing Game, based on the medieval era, where you can battle friends and foes with varieties of weapons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminkim-github/The-Forgotten-Legacy.git"
+  },
+  "keywords": [],
+  "author": "Benjamin Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminkim-github/The-Forgotten-Legacy/issues"
+  },
+  "homepage": "https://github.com/benjaminkim-github/The-Forgotten-Legacy#readme",
+  "dependencies": {
+    "canvas": "^2.9.3"
+  }
+}
